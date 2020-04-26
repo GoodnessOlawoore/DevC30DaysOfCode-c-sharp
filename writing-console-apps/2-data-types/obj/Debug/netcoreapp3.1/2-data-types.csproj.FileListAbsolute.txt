@@ -1,0 +1,13 @@
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\2-data-types\bin\Debug\netcoreapp3.1\2-data-types.exe
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\2-data-types\bin\Debug\netcoreapp3.1\2-data-types.deps.json
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\2-data-types\bin\Debug\netcoreapp3.1\2-data-types.runtimeconfig.json
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\2-data-types\bin\Debug\netcoreapp3.1\2-data-types.runtimeconfig.dev.json
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\2-data-types\bin\Debug\netcoreapp3.1\2-data-types.dll
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\2-data-types\bin\Debug\netcoreapp3.1\2-data-types.pdb
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\2-data-types\obj\Debug\netcoreapp3.1\2-data-types.csprojAssemblyReference.cache
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\2-data-types\obj\Debug\netcoreapp3.1\2-data-types.csproj.CoreCompileInputs.cache
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\2-data-types\obj\Debug\netcoreapp3.1\2-data-types.AssemblyInfoInputs.cache
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\2-data-types\obj\Debug\netcoreapp3.1\2-data-types.AssemblyInfo.cs
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\2-data-types\obj\Debug\netcoreapp3.1\2-data-types.dll
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\2-data-types\obj\Debug\netcoreapp3.1\2-data-types.pdb
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\2-data-types\obj\Debug\netcoreapp3.1\2-data-types.genruntimeconfig.cache
