@@ -31,7 +31,26 @@ namespace _5_operators
             //Remainder 
             int NewNum = 10;
             int NewNum2 = 4;
-            Console.WriteLine(NewNumber % NewNumber2);
+            Console.WriteLine(NewNum % NewNum2);
+
+            //LOGICAL OPERATORS. 
+            int NumberOne = 40;
+            int NumberTwo = 30;
+            int NumberThree = 30;
+            int NumberFour = 35;
+
+            // > :  Greater than 
+            Console.WriteLine(NumberOne > NumberTwo);
+            // < :  Lesser than 
+            Console.WriteLine(NumberOne < NumberTwo);
+            // <= : Less than or equal to
+            Console.WriteLine(NumberTwo <= NumberThree);
+            // >= : Greater than or equal to
+            Console.WriteLine(NumberTwo >= NumberFour);
+            // != : not equal to
+            Console.WriteLine(NumberTwo != NumberFour);
+            // == : equality check
+            Console.WriteLine(NumberTwo == NumberThree);
         }
     }
 }
