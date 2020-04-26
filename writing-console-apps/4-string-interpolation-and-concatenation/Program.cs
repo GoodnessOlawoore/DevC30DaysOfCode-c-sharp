@@ -7,7 +7,7 @@ namespace _4_string_interpolation_and_concatenation
         static void Main(string[] args)
         {
             //EX 1 using int
-            int FirstNumber = 1;
+            int FirstNumber = 7;
             int SecondNumber = 3;
             int TotalNumber = FirstNumber + SecondNumber;
             //concatenation

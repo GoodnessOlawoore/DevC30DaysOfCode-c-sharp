@@ -8,7 +8,7 @@ namespace _3_string_interpolation
         {
             //DATA TYPES
             //Integer
-            int NewNumber = 22;
+            int NewNumber = 21;
             Console.WriteLine($"The new number is : {NewNumber}");
             //or
             Console.WriteLine($"{NewNumber} is the new number");

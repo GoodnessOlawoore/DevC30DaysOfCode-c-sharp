@@ -14,7 +14,7 @@ namespace _2_data_types
             long MyPhoneNumber = 2348144556677;
             Console.WriteLine(MyPhoneNumber);
             //Double
-            double Double = 10.6;
+            double Double = 11.6;
             Console.WriteLine(Double);
             //Float
             float FloatExample = 5.8f;
