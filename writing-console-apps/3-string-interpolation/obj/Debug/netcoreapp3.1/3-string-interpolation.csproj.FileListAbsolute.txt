@@ -1,0 +1,13 @@
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\3-string-interpolation\bin\Debug\netcoreapp3.1\3-string-interpolation.exe
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\3-string-interpolation\bin\Debug\netcoreapp3.1\3-string-interpolation.deps.json
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\3-string-interpolation\bin\Debug\netcoreapp3.1\3-string-interpolation.runtimeconfig.json
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\3-string-interpolation\bin\Debug\netcoreapp3.1\3-string-interpolation.runtimeconfig.dev.json
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\3-string-interpolation\bin\Debug\netcoreapp3.1\3-string-interpolation.dll
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\3-string-interpolation\bin\Debug\netcoreapp3.1\3-string-interpolation.pdb
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\3-string-interpolation\obj\Debug\netcoreapp3.1\3-string-interpolation.csprojAssemblyReference.cache
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\3-string-interpolation\obj\Debug\netcoreapp3.1\3-string-interpolation.csproj.CoreCompileInputs.cache
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\3-string-interpolation\obj\Debug\netcoreapp3.1\3-string-interpolation.AssemblyInfoInputs.cache
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\3-string-interpolation\obj\Debug\netcoreapp3.1\3-string-interpolation.AssemblyInfo.cs
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\3-string-interpolation\obj\Debug\netcoreapp3.1\3-string-interpolation.dll
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\3-string-interpolation\obj\Debug\netcoreapp3.1\3-string-interpolation.pdb
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\3-string-interpolation\obj\Debug\netcoreapp3.1\3-string-interpolation.genruntimeconfig.cache
