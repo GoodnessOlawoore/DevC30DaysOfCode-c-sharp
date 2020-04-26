@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Erudite\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Erudite\\.nuget\\packages"
+    ]
+  }
+}

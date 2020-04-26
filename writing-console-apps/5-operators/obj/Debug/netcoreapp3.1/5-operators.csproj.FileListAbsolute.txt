@@ -1,0 +1,13 @@
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\5-operators\bin\Debug\netcoreapp3.1\5-operators.exe
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\5-operators\bin\Debug\netcoreapp3.1\5-operators.deps.json
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\5-operators\bin\Debug\netcoreapp3.1\5-operators.runtimeconfig.json
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\5-operators\bin\Debug\netcoreapp3.1\5-operators.runtimeconfig.dev.json
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\5-operators\bin\Debug\netcoreapp3.1\5-operators.dll
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\5-operators\bin\Debug\netcoreapp3.1\5-operators.pdb
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\5-operators\obj\Debug\netcoreapp3.1\5-operators.csprojAssemblyReference.cache
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\5-operators\obj\Debug\netcoreapp3.1\5-operators.csproj.CoreCompileInputs.cache
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\5-operators\obj\Debug\netcoreapp3.1\5-operators.AssemblyInfoInputs.cache
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\5-operators\obj\Debug\netcoreapp3.1\5-operators.AssemblyInfo.cs
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\5-operators\obj\Debug\netcoreapp3.1\5-operators.dll
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\5-operators\obj\Debug\netcoreapp3.1\5-operators.pdb
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\5-operators\obj\Debug\netcoreapp3.1\5-operators.genruntimeconfig.cache
