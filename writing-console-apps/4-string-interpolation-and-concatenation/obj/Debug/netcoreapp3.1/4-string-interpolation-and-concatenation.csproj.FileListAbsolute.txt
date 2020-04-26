@@ -1,0 +1,13 @@
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\4-string-interpolation-and-concatenation\obj\Debug\netcoreapp3.1\4-string-interpolation-and-concatenation.csprojAssemblyReference.cache
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\4-string-interpolation-and-concatenation\obj\Debug\netcoreapp3.1\4-string-interpolation-and-concatenation.csproj.CoreCompileInputs.cache
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\4-string-interpolation-and-concatenation\obj\Debug\netcoreapp3.1\4-string-interpolation-and-concatenation.AssemblyInfoInputs.cache
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\4-string-interpolation-and-concatenation\obj\Debug\netcoreapp3.1\4-string-interpolation-and-concatenation.AssemblyInfo.cs
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\4-string-interpolation-and-concatenation\bin\Debug\netcoreapp3.1\4-string-interpolation-and-concatenation.exe
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\4-string-interpolation-and-concatenation\bin\Debug\netcoreapp3.1\4-string-interpolation-and-concatenation.deps.json
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\4-string-interpolation-and-concatenation\bin\Debug\netcoreapp3.1\4-string-interpolation-and-concatenation.runtimeconfig.json
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\4-string-interpolation-and-concatenation\bin\Debug\netcoreapp3.1\4-string-interpolation-and-concatenation.runtimeconfig.dev.json
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\4-string-interpolation-and-concatenation\bin\Debug\netcoreapp3.1\4-string-interpolation-and-concatenation.dll
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\4-string-interpolation-and-concatenation\bin\Debug\netcoreapp3.1\4-string-interpolation-and-concatenation.pdb
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\4-string-interpolation-and-concatenation\obj\Debug\netcoreapp3.1\4-string-interpolation-and-concatenation.dll
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\4-string-interpolation-and-concatenation\obj\Debug\netcoreapp3.1\4-string-interpolation-and-concatenation.pdb
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\4-string-interpolation-and-concatenation\obj\Debug\netcoreapp3.1\4-string-interpolation-and-concatenation.genruntimeconfig.cache
