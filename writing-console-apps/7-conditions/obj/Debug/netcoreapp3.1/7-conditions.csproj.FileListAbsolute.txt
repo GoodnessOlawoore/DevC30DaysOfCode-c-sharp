@@ -1,0 +1,13 @@
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\7-conditions\bin\Debug\netcoreapp3.1\7-conditions.exe
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\7-conditions\bin\Debug\netcoreapp3.1\7-conditions.deps.json
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\7-conditions\bin\Debug\netcoreapp3.1\7-conditions.runtimeconfig.json
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\7-conditions\bin\Debug\netcoreapp3.1\7-conditions.runtimeconfig.dev.json
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\7-conditions\bin\Debug\netcoreapp3.1\7-conditions.dll
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\7-conditions\bin\Debug\netcoreapp3.1\7-conditions.pdb
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\7-conditions\obj\Debug\netcoreapp3.1\7-conditions.csprojAssemblyReference.cache
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\7-conditions\obj\Debug\netcoreapp3.1\7-conditions.csproj.CoreCompileInputs.cache
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\7-conditions\obj\Debug\netcoreapp3.1\7-conditions.AssemblyInfoInputs.cache
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\7-conditions\obj\Debug\netcoreapp3.1\7-conditions.AssemblyInfo.cs
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\7-conditions\obj\Debug\netcoreapp3.1\7-conditions.dll
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\7-conditions\obj\Debug\netcoreapp3.1\7-conditions.pdb
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\7-conditions\obj\Debug\netcoreapp3.1\7-conditions.genruntimeconfig.cache
