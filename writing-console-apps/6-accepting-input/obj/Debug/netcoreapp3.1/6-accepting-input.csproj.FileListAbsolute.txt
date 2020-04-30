@@ -1,0 +1,13 @@
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\6-accepting-input\bin\Debug\netcoreapp3.1\6-accepting-input.exe
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\6-accepting-input\bin\Debug\netcoreapp3.1\6-accepting-input.deps.json
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\6-accepting-input\bin\Debug\netcoreapp3.1\6-accepting-input.runtimeconfig.json
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\6-accepting-input\bin\Debug\netcoreapp3.1\6-accepting-input.runtimeconfig.dev.json
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\6-accepting-input\bin\Debug\netcoreapp3.1\6-accepting-input.dll
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\6-accepting-input\bin\Debug\netcoreapp3.1\6-accepting-input.pdb
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\6-accepting-input\obj\Debug\netcoreapp3.1\6-accepting-input.csprojAssemblyReference.cache
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\6-accepting-input\obj\Debug\netcoreapp3.1\6-accepting-input.csproj.CoreCompileInputs.cache
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\6-accepting-input\obj\Debug\netcoreapp3.1\6-accepting-input.AssemblyInfoInputs.cache
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\6-accepting-input\obj\Debug\netcoreapp3.1\6-accepting-input.AssemblyInfo.cs
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\6-accepting-input\obj\Debug\netcoreapp3.1\6-accepting-input.dll
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\6-accepting-input\obj\Debug\netcoreapp3.1\6-accepting-input.pdb
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\6-accepting-input\obj\Debug\netcoreapp3.1\6-accepting-input.genruntimeconfig.cache
