@@ -98,6 +98,21 @@ namespace _8_Array
             {
                 Console.WriteLine(car);
             }   Console.ReadLine();
+
+
+            //Finding an element in an array
+
+            string[] animals = { "Cat", "Duck", "Dog", "Elephant"};
+            //Find if the "Duck" is in the array
+            string value = Array.Find(animals, element => element == "Duck");
+            Console.WriteLine(value);
+            Console.ReadLine();
+
+            string[]  games = { "GTA", "PES", "Candy Crush"};
+            //Find the element that starts with the letter "P"
+            string result = Array.Find(games, element => element.StartsWith("P"));
+            Console.WriteLine(result);
+            Console.WriteLine();
         }
     }
 }
