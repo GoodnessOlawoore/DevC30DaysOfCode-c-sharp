@@ -1,0 +1,13 @@
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\8-Array\bin\Debug\netcoreapp3.1\8-Array.exe
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\8-Array\bin\Debug\netcoreapp3.1\8-Array.deps.json
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\8-Array\bin\Debug\netcoreapp3.1\8-Array.runtimeconfig.json
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\8-Array\bin\Debug\netcoreapp3.1\8-Array.runtimeconfig.dev.json
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\8-Array\bin\Debug\netcoreapp3.1\8-Array.dll
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\8-Array\bin\Debug\netcoreapp3.1\8-Array.pdb
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\8-Array\obj\Debug\netcoreapp3.1\8-Array.csprojAssemblyReference.cache
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\8-Array\obj\Debug\netcoreapp3.1\8-Array.csproj.CoreCompileInputs.cache
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\8-Array\obj\Debug\netcoreapp3.1\8-Array.AssemblyInfoInputs.cache
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\8-Array\obj\Debug\netcoreapp3.1\8-Array.AssemblyInfo.cs
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\8-Array\obj\Debug\netcoreapp3.1\8-Array.dll
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\8-Array\obj\Debug\netcoreapp3.1\8-Array.pdb
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\8-Array\obj\Debug\netcoreapp3.1\8-Array.genruntimeconfig.cache
