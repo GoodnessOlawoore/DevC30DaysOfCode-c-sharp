@@ -1,0 +1,13 @@
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\9-Loops\bin\Debug\netcoreapp3.1\9-Loops.exe
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\9-Loops\bin\Debug\netcoreapp3.1\9-Loops.deps.json
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\9-Loops\bin\Debug\netcoreapp3.1\9-Loops.runtimeconfig.json
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\9-Loops\bin\Debug\netcoreapp3.1\9-Loops.runtimeconfig.dev.json
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\9-Loops\bin\Debug\netcoreapp3.1\9-Loops.dll
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\9-Loops\bin\Debug\netcoreapp3.1\9-Loops.pdb
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\9-Loops\obj\Debug\netcoreapp3.1\9-Loops.csprojAssemblyReference.cache
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\9-Loops\obj\Debug\netcoreapp3.1\9-Loops.csproj.CoreCompileInputs.cache
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\9-Loops\obj\Debug\netcoreapp3.1\9-Loops.AssemblyInfoInputs.cache
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\9-Loops\obj\Debug\netcoreapp3.1\9-Loops.AssemblyInfo.cs
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\9-Loops\obj\Debug\netcoreapp3.1\9-Loops.dll
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\9-Loops\obj\Debug\netcoreapp3.1\9-Loops.pdb
+C:\Users\Erudite\DevC30DaysOfCode-c-sharp\writing-console-apps\9-Loops\obj\Debug\netcoreapp3.1\9-Loops.genruntimeconfig.cache
